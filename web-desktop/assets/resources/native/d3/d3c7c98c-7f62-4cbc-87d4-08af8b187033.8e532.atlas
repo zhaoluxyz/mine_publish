@@ -1,0 +1,62 @@
+
+Ui_Kd_yemian_qian.png
+size: 285,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anquanmao
+  rotate: true
+  xy: 127, 41
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 1, 127
+  size: 115, 145
+  orig: 117, 146
+  offset: 1, 0
+  index: -1
+dizuo
+  rotate: true
+  xy: 117, 128
+  size: 144, 67
+  orig: 146, 68
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 213, 26
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 185, 73
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 1, 1
+  size: 125, 125
+  orig: 127, 127
+  offset: 1, 1
+  index: -1
+ren2
+  rotate: false
+  xy: 185, 169
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+tieqiao
+  rotate: true
+  xy: 127, 9
+  size: 31, 85
+  orig: 31, 85
+  offset: 0, 0
+  index: -1

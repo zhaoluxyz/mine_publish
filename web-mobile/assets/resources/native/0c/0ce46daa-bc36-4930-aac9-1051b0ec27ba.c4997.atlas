@@ -1,0 +1,118 @@
+
+Ui_Kd_boom.png
+size: 437,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai_1
+  rotate: false
+  xy: 110, 9
+  size: 41, 42
+  orig: 50, 50
+  offset: 5, 4
+  index: -1
+baoquan/baoquan_1
+  rotate: false
+  xy: 57, 5
+  size: 52, 46
+  orig: 75, 75
+  offset: 14, 14
+  index: -1
+baoquan/baoquan_2
+  rotate: false
+  xy: 333, 4
+  size: 61, 56
+  orig: 75, 75
+  offset: 10, 10
+  index: -1
+baoquan/baoquan_3
+  rotate: true
+  xy: 193, 56
+  size: 67, 63
+  orig: 75, 75
+  offset: 7, 7
+  index: -1
+baoquan/baoquan_4
+  rotate: true
+  xy: 125, 53
+  size: 70, 67
+  orig: 75, 75
+  offset: 5, 5
+  index: -1
+baoquan/baoquan_5
+  rotate: false
+  xy: 1, 52
+  size: 70, 71
+  orig: 75, 75
+  offset: 5, 4
+  index: -1
+baoquan/baoquan_6
+  rotate: false
+  xy: 72, 52
+  size: 52, 71
+  orig: 75, 75
+  offset: 4, 4
+  index: -1
+baowu/baowu_10
+  rotate: false
+  xy: 1, 4
+  size: 55, 47
+  orig: 75, 70
+  offset: 8, 18
+  index: -1
+baowu/baowu_2
+  rotate: false
+  xy: 152, 1
+  size: 63, 51
+  orig: 75, 70
+  offset: 11, 6
+  index: -1
+baowu/baowu_4
+  rotate: true
+  xy: 216, 1
+  size: 54, 55
+  orig: 75, 70
+  offset: 7, 8
+  index: -1
+baowu/baowu_6
+  rotate: true
+  xy: 321, 61
+  size: 62, 56
+  orig: 75, 70
+  offset: 4, 6
+  index: -1
+baowu/baowu_8
+  rotate: false
+  xy: 272, 1
+  size: 60, 57
+  orig: 75, 70
+  offset: 3, 7
+  index: -1
+liangfang_0
+  rotate: false
+  xy: 257, 59
+  size: 63, 64
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+yanwu_qiu_0
+  rotate: false
+  xy: 395, 47
+  size: 39, 37
+  orig: 45, 45
+  offset: 3, 4
+  index: -1
+yanwu_qiu_1
+  rotate: false
+  xy: 395, 85
+  size: 41, 38
+  orig: 45, 45
+  offset: 2, 3
+  index: -1
+yanwu_qiu_2
+  rotate: false
+  xy: 395, 10
+  size: 39, 36
+  orig: 45, 45
+  offset: 3, 4
+  index: -1
