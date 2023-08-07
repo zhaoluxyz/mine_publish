@@ -37,6 +37,12 @@
 
 </head>
 <body>
+	<script type="text/javascript">
+      window.fromFlutterMessage = (event) => {
+        console.warn("window on message index.html ", JSON.stringify(event));
+      };
+    </script>
+
   <div id="GameDiv" cc_exact_fit_screen="true">
       <div id="Cocos3dGameContainer">
         <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="99"></canvas>
